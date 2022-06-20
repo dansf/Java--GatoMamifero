@@ -1,6 +1,4 @@
 <h2 align="center">Gato Mamífero</h2>
-<h4>Introdução</h4>
-Atividade para criar dois Doguinhos
 
 <h5>Extensão</h5>
 <p>&nbsp; 
